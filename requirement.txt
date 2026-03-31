@@ -1,0 +1,13 @@
+C++ Compiler: g++ (MinGW-w64)
+Standard: C++11 or higher
+
+Libraries used:
+- iostream
+- fstream
+- vector
+- string
+- sstream
+- algorithm
+- regex
+
+No external dependencies required
