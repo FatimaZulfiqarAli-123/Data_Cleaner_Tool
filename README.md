@@ -1,4 +1,4 @@
-# 📌 NLP-Based Data Cleaner Tool (C++)
+# NLP-Style Data Cleaning using C++ for CSV & JSON
 
 A lightweight **C++ data preprocessing tool** designed for cleaning messy datasets.  
 It supports **CSV and JSON files** and performs basic NLP-style text normalization for data science pipelines.
